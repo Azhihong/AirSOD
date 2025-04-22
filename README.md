@@ -1,3 +1,4 @@
 # AirSOD: A Lightweight Network for RGB-D Salient Object Detection
 # Acknowledgements
-Our code is based on the MobileSal project. We would like to thank the authors of MobileSal for their contribution.
+We thank but not limited to following repositories for providing assistance for our research:
+- [MobileSal](https://github.com/yuhuan-wu/MobileSal)
