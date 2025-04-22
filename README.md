@@ -1,6 +1,6 @@
 # AirSOD: A Lightweight Network for RGB-D Salient Object Detection
 <p align="center">
-  <img src="pipeline.pdf" width="500px" />
+  <img src="pipeline.png" width="500px" />
 </p>
 
 # Acknowledgements
