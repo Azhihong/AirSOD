@@ -2,6 +2,7 @@
 <p align="center">
   <img src="pipeline.pdf" width="600px" />
 </p>
+
 # Acknowledgements
 We thank but not limited to following repositories for providing assistance for our research:
 - [MobileSal](https://github.com/yuhuan-wu/MobileSal)
