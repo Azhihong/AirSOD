@@ -1,5 +1,4 @@
 from models.model_X_BetaV5 import AirSOD
-# from models.model import MobileSal
 import torch, os
 from time import time
 from tqdm import tqdm
